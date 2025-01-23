@@ -1,0 +1,8 @@
+a {
+  b {
+    c = 1
+    d = "hello"
+  }
+  e = True
+  f = False
+}
