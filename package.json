@@ -1,5 +1,5 @@
 {
-  "name": "pkl",
+  "name": "pkl-js",
   "version": "1.0.0",
   "description": "Use Apple's PKL in JavaScript/TypeScript projects.",
   "main": "dist/index.js",
